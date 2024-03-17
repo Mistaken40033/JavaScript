@@ -1,7 +1,7 @@
 // Get a reference to the #add-employees-btn element
 const addEmployeesBtn = document.querySelector('#add-employees-btn');
 // Adding a button
-addEmployeesBtn.textContent = 'Add Employee Roster';
+addEmployeesBtn.textContent = 'Add Employee Roster'
 
 
 let employees = [];

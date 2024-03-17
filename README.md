@@ -1,17 +1,15 @@
+
 # Employee_Payroll
 Payroll Challenge
 
 
-## User Story
-
-
+## User_Story
 AS A payroll manager
 I WANT AN employee payroll tracker
 SO THAT I can see my employees' payroll data and properly budget for the company
 
 
-## Acceptance Criteria
-
+## Acceptance_Criteria
 GIVEN an employee payroll tracker
 WHEN I click the "Add employee" button
 THEN I am presented with a series of prompts asking for first name, last name, and salary
@@ -28,3 +26,9 @@ I was able to work with Yvonne, Jack "Alexis", Malcolm, Jemeric, Dan Jones over 
 I had to redo the program 4 times, due to errors or didn't download the GitHub Fork correctly. 
 
 Worked with my TA's on afterhours. # JavaScript
+
+
+## Mock-Up
+![employee](image-1.png)
+
+![alt text](image-2.png)
