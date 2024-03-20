@@ -9,6 +9,8 @@ Worked with my TA's on afterhours. # JavaScript
 
 Had a tutor session with Jaytee P "Cool guy to work with!"
 
+![Media showing my work] (<video controls src="Assets/Recording 2024-03-19 231534.mp4" title="Title"></video>)
+
 
 ## Your Task
 
